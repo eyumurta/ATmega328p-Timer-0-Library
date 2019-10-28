@@ -1,7 +1,9 @@
 
 ENGLISH REFERENCE IS DOWN OF THE PAGE.
-//Sorry for my English.;) 
-
+Sorry for my English.;) 
+It's very helpfull tool:soundcard oscilloscope
+https://www.zeitnitz.eu/scope_en
+Faydalı bir osiloskop aracı
 ******************************************************************************************
 Ben sadece amatör biriyim bu yüzden kütüphaneyi kullanirken lütfen dikkatli olunuz.
 Eger bana bir sorunuz olursa erkuhuk@gmail.com üzerinden ulasabilirsiniz.
